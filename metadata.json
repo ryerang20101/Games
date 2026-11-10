@@ -1,0 +1,8 @@
+{
+  "name": "전쟁 시뮬레이터 (Battle Simulator 2D)",
+  "description": "다양한 맵의 양쪽 진영(플레이어 레드 vs AI 블루)에서 보병, 기마병, 궁수, 투석기 등을 전략적으로 배치하여 맞붙는 대규모 2D 전술 전쟁 시뮬레이션 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
